@@ -1,2 +1,2 @@
 # Reinforcement Learning
-Frozen Lake
+Frozen Lake - Solving CS234 Reinforcement Learning's *Frozen Lake* assignment
