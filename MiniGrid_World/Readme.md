@@ -4,3 +4,4 @@ Implementing RL algorithms on the [MiniGridWorld](https://github.com/maximecb/gy
 
 Environments:
 - [Empty Room](EmptyRoom)
+- [4 Rooms](FourRooms)

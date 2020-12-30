@@ -1,4 +1,4 @@
-# Empty Room
+# Four Rooms
 
 Implementing RL algorithms on the [MiniGridWorld](https://github.com/maximecb/gym-minigrid) environment.
 
@@ -8,23 +8,23 @@ Algorithms Implemented:
 
 ## Q-learning
 
-The following results were obtained from Q-learning on the Empty Room.  
+The following results were obtained from Q-learning on the Four Rooms Environment.  
 Rewards per episode V/s number of episodes:  
-![Rewards](Resources/Q_rewards.png)
+![Rewards](Resources/frq_rewards.png)
 
 
 
 Steps per episode V/s number of Episodes:   (episode terminates if steps more than 256)
-![Steps](Resources/Q_steps.png)
+![Steps](Resources/frq_steps.png)
 
 ## One Step Sarsa
 
-The following results were obtained from SARSA on Empty Room.   
+The following results were obtained from SARSA on Four Rooms Environment.   
 Room.  
 Rewards per episode V/s number of episodes:  
 ![Rewards](Resources/sar_rewards.png)
 
 
 
-Steps per episode V/s number of Episodes:   (episode terminates if steps more than 256)
+Steps per episode V/s number of Episodes:   (episode terminates if steps more than 256)  
 ![Steps](Resources/sar_steps.png)
