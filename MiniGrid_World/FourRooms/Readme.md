@@ -1,6 +1,8 @@
 # Four Rooms
 
-Implementing RL algorithms on the [MiniGridWorld](https://github.com/maximecb/gym-minigrid) environment.
+Implementing RL algorithms on the [MiniGridWorld](https://github.com/maximecb/gym-minigrid) environment.  
+
+![fourRooms](Resources/four-rooms-env.png)
 
 Algorithms Implemented: 
  - Q-learning

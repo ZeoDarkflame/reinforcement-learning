@@ -1,6 +1,8 @@
 # Empty Room
 
-Implementing RL algorithms on the [MiniGridWorld](https://github.com/maximecb/gym-minigrid) environment.
+Implementing RL algorithms on the [MiniGridWorld](https://github.com/maximecb/gym-minigrid) environment.  
+
+![EmptyRoom](Resources/emptyroom.png)
 
 Algorithms Implemented: 
  - Q-learning
