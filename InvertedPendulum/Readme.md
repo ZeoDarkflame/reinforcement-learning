@@ -6,5 +6,5 @@ Solving Gym Inverted Pendulum Using Policy Gradient Methods (*Some Work in Progr
 
 Initial Results:
 
-![Results](InvPenduGra.png)
+![Results](InvPenduGra.PNG)
 
